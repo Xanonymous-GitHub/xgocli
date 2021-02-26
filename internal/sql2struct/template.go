@@ -1,7 +1,6 @@
 package sql2struct
 
 import (
-	``
 	"fmt"
 	"os"
 	"text/template"
